@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">SimpleCursorAdapterSample</string>
+    <string name="sometext">some text</string>
+    <string name="some_hint">some hint</string>
+</resources>
